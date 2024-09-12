@@ -17,3 +17,11 @@ nav button {
 main {
     padding: 20px;
 }
+
+.calc{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 300px;
+
+}
